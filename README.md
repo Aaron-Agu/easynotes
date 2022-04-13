@@ -1,0 +1,2 @@
+# easynotes
+Notes
